@@ -31,7 +31,7 @@ https://datacatalog.worldbank.org/search/dataset/0038015
 
 ## Approaches
 
-SQL, Tableau, Power BI or  any tools and techniques as per convenience. Here ,I have used Tableau to visualize the data.
+Use SQL, Tableau, Power BI or  any tools and techniques as per convenience. Here ,I have used Tableau to visualize the data.
 ## Tech Stack
 
 ->JUPTER NOTEBOOK
